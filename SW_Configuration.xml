@@ -1,0 +1,17 @@
+<?xml  version="1.0" encoding="UTF-8" ?>
+<SW-Configuration>
+	<MobileData>
+	<PublicName>SM-G360M</PublicName>
+	</MobileData>
+	<CustomerDataSet>
+	<CSCName>G360MUUB</CSCName>
+	<CSCVersion>1BPB2</CSCVersion>
+	<NbCustomer>6</NbCustomer>
+	<CustomerData src="/Customer/TTT/customer.xml" />
+	<CustomerData src="/Customer/TPA/customer.xml" />
+	<CustomerData src="/Customer/ARO/customer.xml" />
+	<CustomerData src="/Customer/UPO/customer.xml" />
+	<CustomerData src="/Customer/COO/customer.xml" />
+	<CustomerData src="/Customer/BVO/customer.xml" />
+	</CustomerDataSet>
+</SW-Configuration>
